@@ -1,0 +1,10 @@
+doctorId,firstName,lastName,gender,age,city,qualification,spec,experience
+101,Sunil,Shetty,M,40,Jalandhar,MD,HAEMATOLOGY,15
+102,Uday,Kapur,M,35,Bangalore,MBBS,NEUROLOGY,5
+103,Anil,Bansal,M,28,Lucknow ,MD,NEUROLOGY,4
+104,Sanjana,Sharma,F,43,Amristar,MBBS,ONCOLOGY,10
+105,Sidhant,Kaif,M,34,Ludhiana,MBBS,MEDICINE,6
+108,Ishaan,Sehgal,M,50,Jalandhar,MD,GYNAECOLOGY,20
+109,Rajeev,Nath,M,36,New Delhi,MD,HAEMATOLOGY,8
+110,Dheeraj,Bhatia,M,39,Ludhiana,MD,MEDICINE,9
+111,Rohan,Sharma,M,48,Jalandhar,MBBS,MEDICINE,12
